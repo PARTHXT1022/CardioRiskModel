@@ -42,7 +42,7 @@ The dataset used for training and testing the model is sourced from [provide_dat
 
 ## Google Colab Notebook
 
-The code for this project is implemented in a Google Colab notebook, which can be accessed [here](https://github.com/PARTHXT1022/Medical-Diagnostics-Model-for-Heart-Disease-Prediction-/blob/main/Medical_Diagnosis_Mini_Project.ipynb). The notebook provides a step-by-step guide for loading the dataset, training the logistic regression model, and making predictions.
+The code for this project is implemented in a Google Colab notebook, which can be accessed [here](https://github.com/PARTHXT1022/Heart-disease-Prediction-Model-using-Logistic-Regression-in-AI-ML/blob/main/Medical_Diagnosis_Mini_Project.ipynb). The notebook provides a step-by-step guide for loading the dataset, training the logistic regression model, and making predictions.
 
 ## Usage
 
